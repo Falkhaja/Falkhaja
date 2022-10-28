@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Fahad Mohamed Alkhaja.
 
-- I am a graduating senior from Harvard College with a BS in Mechanical Engineering in May 2021.
-- I will be pursuing an MA in Statistics at Columbia GSAS with an expected graduation in Dec 2022.
+- I  graduated from Harvard University with a Bachelor of Science in Mechanical Engineering in May 2021.
+- I am currently pursuing a Masters of Arts in Statistics at Columbia University with an expected graduation in December 2022.
+
+- Throughout my Statistics program, I have become well versed in the fields of data wrangling, manipulation, and visualization. I also have experience in ML algorithms (Tensorflow and Keras API).
 
 - I speak Arabic and English fluently.
 
